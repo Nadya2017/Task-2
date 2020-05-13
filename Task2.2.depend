@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1584305916 source:c:\users\user\desktop\informatica\2\task2.2\main.c
+	<stdio.h>
+	"list.h"
+	<stdlib.h>
+
+1584297483 c:\users\user\desktop\informatica\2\task2.2\list.h
+
+1584382441 source:c:\users\user\desktop\informatica\2\task2.2\list.c
+	"list.h"
+	<stdlib.h>
+	<stdio.h>
+
+1587231064 source:c:\users\root\desktop\task2.2\list.c
+	"list.h"
+	<stdlib.h>
+	<stdio.h>
+
+1584297483 c:\users\root\desktop\task2.2\list.h
+
+1587232141 source:c:\users\root\desktop\task2.2\main.c
+	<stdio.h>
+	"list.h"
+	<stdlib.h>
+
+1589304250 source:c:\users\user\desktop\Новая папка (2)\task-2-master\list.c
+	"list.h"
+	<stdlib.h>
+	<stdio.h>
+
+1587192986 c:\users\user\desktop\Новая папка (2)\task-2-master\list.h
+
+1589307255 source:c:\users\user\desktop\Новая папка (2)\task-2-master\main.c
+	<stdio.h>
+	"list.h"
+	<stdlib.h>
+
